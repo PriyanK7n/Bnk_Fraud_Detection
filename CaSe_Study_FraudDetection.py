@@ -1,12 +1,13 @@
 
 #  a Hybrid Deep Learning Model
-
+## Uses Supervised+Unsupervised Deep ML
 # Part 1 - Identify the Frauds with the Self-Organizing Map
 
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+
 
 # Importing the dataset
 dataset = pd.read_csv('Credit_Card_Applications.csv')
