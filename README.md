@@ -1,4 +1,4 @@
-# Bnk_Fraud_Detection
+# Bnk Frauds Detection
 
 ## This is Bank Fraud Detection model
 
