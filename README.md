@@ -1,4 +1,4 @@
-# Bnk Frauds Detection
+# Bank Frauds Detection
 
 ## This is Bank Fraud Detection model
 
